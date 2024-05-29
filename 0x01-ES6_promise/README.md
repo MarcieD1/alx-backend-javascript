@@ -35,22 +35,4 @@ Tasks
  9. Throw an error
  10. Await / Async
 
-Requirements:hammer:
-Ubuntu 18.04 LTS using NodeJS 12.22.x
-Jest Testing Framework
-ESLint
-Install NodeJS 12.22.x
-mdes2019@DESKTOP-EC1S0EM:~/alx-backend-javascript$  curl -sL https://deb.nodesource.com/setup_12.x -o nodesource_setup.sh
-mdes2019@DESKTOP-EC1S0EM:~/alx-backend-javascript$ sudo bash nodesource_setup.sh
-mdes2019@DESKTOP-EC1S0EM:~/alx-backend-javascript$  sudo apt install nodejs -y
-Check version
-mdes2019@DESKTOP-EC1S0EM:~/alx-backend-javascript$ nodejs -v
-v12.22.1
-mdes2019@DESKTOP-EC1S0EM:~/alx-backend-javascript$ npm -v
-6.14.12
-Install Jest, Babel, and ESLint
-mdes2019@DESKTOP-EC1S0EM:~/alx-backend-javascript$ npm install --save-dev jest
-mdes2019@DESKTOP-EC1S0EM:~/alx-backend-javascript$  npm install --save-dev babel-jest @babel/core @babel/preset-env
-mdes2019@DESKTOP-EC1S0EM:~/alx-backend-javascript$ npm install --save-dev eslint
-
 Author: Marcia Maphosa
