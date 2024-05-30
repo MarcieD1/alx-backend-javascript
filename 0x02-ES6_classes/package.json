@@ -1,0 +1,22 @@
+{
+  "name": "0x02-es6_classes",
+  "version": "9.3.0",
+  "description": "eslint",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alx-backend-javascript/0x02-ES6_classes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alx-backend-javascript/0x02-ES6_classes/issues"
+  },
+  "homepage": "https://github.com/alx-backend-javascript/0x02-ES6_classes#readme",
+  "devDependencies": {
+    "eslint": "^9.3.0"
+  }
+}
